@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.sportsaccess" name="SportsAccess" version="1.4.5" provider-name="SportsAccess">
+	<extension point="xbmc.addon.repository" name="SportsAccess">
+        <dir>
+            <info compressed="false">hhttps://raw.githubusercontent.com/zerobuffer/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/zerobuffer/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/zerobuffer/main/plugins/</datadir>
+        </dir>
+    </extension>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">NoBuffZone</summary>
+    <description lang="en">Get all your Live sports here</description>
+    <genre>Sports</genre>
+    <platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+  </extension>
+</addon>
+
+
+https://raw.githubusercontent.com/zerobuffer/main/plugins/plugin.video.sportsaccess.1.4.5-LEiA.zip
